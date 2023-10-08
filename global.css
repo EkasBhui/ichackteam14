@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-otomanopee-one: "Otomanopee One";
+  --font-markazi-text: "Markazi Text";
+  --font-inherit: inherit;
+  --font-moul: Moul;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-26xl: 45px;
+  --font-size-41xl: 60px;
+  --font-size-17xl: 36px;
+  --font-size-77xl: 96px;
+
+  /* Colors */
+  --color-darkslategray: #104e46;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-rosybrown: #885454;
+  --color-purple: #842480;
+
+  /* Paddings */
+  --padding-41xl: 60px;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+  --br-29xl: 48px;
+}

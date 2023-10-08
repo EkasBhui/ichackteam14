@@ -1,0 +1,200 @@
+.forestcarealliance,
+.frame {
+  position: absolute;
+  top: 14px;
+  left: 294px;
+}
+.frame {
+  top: 0;
+  left: 0;
+  background-color: var(--color-purple);
+  width: 1440px;
+  height: 165px;
+  overflow: hidden;
+}
+.our-vision,
+.our-vision-is {
+  position: absolute;
+  top: 117px;
+  left: 791px;
+}
+.our-vision-is {
+  top: 219px;
+  left: 673px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 620px;
+  height: 536px;
+}
+.about-us,
+.home,
+.user-profile {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 17px;
+  left: 903px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.about-us,
+.user-profile {
+  left: 1020px;
+}
+.user-profile {
+  left: 1176px;
+}
+.image-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  width: 510px;
+  height: 734px;
+  object-fit: cover;
+}
+.desktop-1,
+.frame1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame1 {
+  top: 195px;
+  left: 80px;
+  width: 1309px;
+  height: 755px;
+  font-size: var(--font-size-26xl);
+}
+.desktop-1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-rosybrown);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 1024px;
+}
+.who-can-join {
+  position: absolute;
+  top: 38px;
+  left: 402px;
+  display: inline-block;
+  width: 711px;
+  height: 114px;
+}
+.our-initiative-welcomes {
+  margin: 0;
+}
+.community-members-in {
+  margin-bottom: 0;
+}
+.community-members-in-fire-pron {
+  margin: 0;
+  padding-left: var(--padding-41xl);
+}
+.our-initiative-welcomes-container {
+  position: absolute;
+  top: 162px;
+  left: 78px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 7207px;
+  height: 12857px;
+}
+.desktop-2,
+.image-1-icon2 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.image-1-icon2 {
+  top: 796px;
+  height: 200px;
+  object-fit: cover;
+}
+.desktop-2 {
+  top: 1024px;
+  background-color: var(--color-darkslategray);
+  height: 1024px;
+  overflow: hidden;
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-moul);
+}
+.contact-us1 {
+  position: absolute;
+  top: 122px;
+  left: 104px;
+}
+.address-a58-container1 {
+  position: absolute;
+  top: 310px;
+  left: 136px;
+  white-space: pre-wrap;
+}
+.image-1-icon3 {
+  position: absolute;
+  top: 378px;
+  left: 1066px;
+  width: 355px;
+  height: 626px;
+  object-fit: cover;
+}
+.sign-up-form1 {
+  position: absolute;
+  top: 25px;
+  left: 10px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  -webkit-text-stroke: 1px #000;
+}
+.sign-up-form-container {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.desktop-3-child,
+.frame-container,
+.sign-up-form-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 173px;
+  height: 80px;
+}
+.desktop-3-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 576px;
+}
+.desktop-31 {
+  position: absolute;
+  top: 2048px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-otomanopee-one);
+}
+.desktop-1-parent {
+  position: relative;
+  width: 100%;
+  height: 3072px;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
